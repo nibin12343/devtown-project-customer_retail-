@@ -1,4 +1,5 @@
 🛒Customer Retail Classification
+
 A machine learning project that classifies customer transactions by country using retail invoice data. Three classification models are compared: Logistic Regression, Decision Tree, and K-Nearest Neighbors (KNN).
 
 📁 Dataset
