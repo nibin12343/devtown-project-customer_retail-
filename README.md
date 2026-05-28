@@ -3,7 +3,9 @@
 A machine learning project that classifies customer transactions by country using retail invoice data. Three classification models are compared: Logistic Regression, Decision Tree, and K-Nearest Neighbors (KNN).
 
 📁 Dataset
+
 File: customer_retail.csv
+
 The dataset contains online retail transaction records with the following columns:
 ColumnTypeDescriptionInvoiceNoobjectUnique invoice identifierStockCodeobjectProduct codeDescriptionobjectProduct descriptionQuantityint64Number of units purchasedInvoiceDatedatetimeDate and time of transactionUnitPricefloat64Price per unit (£)CustomerIDfloat64Unique customer identifierCountryobjectCountry of the customer
 
